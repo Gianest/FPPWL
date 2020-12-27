@@ -1,0 +1,12 @@
+.crop{
+  object-fit:cover;
+  border-radius:50%;
+  }
+ .truncate {
+  text-align: center;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+}
